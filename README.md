@@ -9,7 +9,7 @@
     <strong>this is a very private personal repo</strong>
 </h2>
 <p align="center">
-    <img src="https://github.com/osogan/delibird/assets/151724948/412917b7-acb2-4b6d-b17d-b0004840cf29">
+    <img src="https://github.com/osogan/delibird/assets/151724948/35796f0b-d47a-4500-8b56-e0593075a457">
 </p>
 
 <!-- content -->
